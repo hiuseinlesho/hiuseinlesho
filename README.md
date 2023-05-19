@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Programming Fundamentals with Java**
 
-- ⚡ Fun fact **I really love coding**
-
 <p align="left">
 </p>
 
