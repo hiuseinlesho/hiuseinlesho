@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **I really love coding**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
